@@ -1,12 +1,14 @@
 # Project04-Platformer
 
-# Project Name
-Context and date
-
-Description
+# Platformer 2d
+Play as a character and defeat enemies to get to the end.
+4/11/25
 
 ## Implementation
-Which features you included.
+Multiple levels +1
+Large or elaborate levels +1
+Different (especially student-created) sprites +1 or +2
+Additional behaviors for the player: attack, crouch, slide, wall-jump, etc. +1 each(Wall Jump)
 
 ## References
 
@@ -17,3 +19,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Conner Rice
